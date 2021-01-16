@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ranatext">
+        \nName: Asaduzzaman Rana
+        \nAge : 27
+        \nDepartment : CSE
+    </string>
+    <string name="prodiptext">
+        \nName: Prodip Pal
+        \nAge : 25
+        \nDepartment : CSE
+    </string>
+    <string name="prohortext">
+        \nName: Abdur Rahman Prohor
+        \nAge : 28
+        \nDepartment : CSE
+    </string>
+    <string name="lemontext">
+        \nName: Taifur Rahman Lemon
+        \nAge : 29
+        \nDepartment : CSE
+    </string>
+    <string name="showmintext">
+        \nName: Raisul Islam Showmin
+        \nAge : 26
+        \nDepartment : CSE
+    </string>
+    <string name="babutext">
+        \nName: Ashrafuzzaman Babu
+        \nAge : 26
+        \nDepartment : CSE
+    </string>
+    <string name="shawontext">
+        \nName: Shaown Talukdar
+        \nAge : 26
+        \nDepartment : CSE
+    </string>
+    <string name="akashtext">
+        \nName: Tanjid Akash
+        \nAge : 25
+        \nDepartment : CSE
+    </string>
+    <string name="shoheltext">
+        \nName: Md Shohel Rana
+        \nAge : 30
+        \nDepartment : CSE
+    </string>
+    <string name="junatext">
+        \nName: Junaid Ahmed 
+        \nAge : 29
+        \nDepartment : BBA
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
